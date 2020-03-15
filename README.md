@@ -4,12 +4,15 @@ Your first weapon is a lightsaber:
   -Short Range high damage attacks
   -can Block/reflect attacks by holding down the attack button and letting go after charging it up
 You have 10 force powers that you use 5 from the light side, 5 from the dark side, 2 passive, 8 active:
+
+
 Dark side:
   -Force Choke - Chokes someone from afar
 	-Force Lightning - Shoot lightning out of your hands
 	-Force Drain -  Drains the health of your enemies
 	-Force Clone - Make a clone of yourself
 	-Force Rage(passive) - The lower your health, the higher your damage
+
 
 Light Side:
   -Force Healing - Heal yourself
