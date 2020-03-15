@@ -21,8 +21,8 @@ Light Side:
 	-Beam of Light - Shoot a beam of light
 	-Force Combustion -Cause explosion of an object or person
   
-All of these powers run on Force stamina. Beam of light takes up so much force stamina that it puts in the negative and yout stamina is in the negatives. You now how to attack with your lightsaber twice as much
-  
+All of these powers run on Force stamina
+
 2 Bonus force powers:
   -Force jump- Can jump much higher
   -Force speed- Hold down shit to move much faster
